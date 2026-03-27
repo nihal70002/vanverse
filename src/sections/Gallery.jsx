@@ -283,8 +283,9 @@ export default function Gallery() {
                 Craft in<br /><em>Every Frame</em>
               </h2>
             </div>
+            
             <p className="gallery-header-note">
-              A look inside the details — fabric, form, and finish that define the Raviz standard.
+              A look inside the details — fabric, form, and finish that define the Ramiz standard.
             </p>
           </div>
 

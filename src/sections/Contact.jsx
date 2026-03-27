@@ -30,7 +30,7 @@ const contactDetails = [
   },
   {
     label: "Email",
-    value: "contact@Raviz.com",
+    value: "contact@Ramiz.com",
     sub: "We reply within 24 hours",
     icon: "◎",
   },
@@ -517,7 +517,7 @@ export default function Contact() {
 
         {/* Footer band */}
         <div className="contact-footer-band">
-          <span className="contact-footer-brand">Raviz</span>
+          <span className="contact-footer-brand">Ramiz</span>
           <nav className="contact-footer-links">
             {["Collections", "About", "Gallery", "Contact"].map(link => (
               <a key={link} href={`#${link.toLowerCase()}`} className="contact-footer-link">
@@ -526,7 +526,7 @@ export default function Contact() {
             ))}
           </nav>
           <span className="contact-footer-copy">
-            © {new Date().getFullYear()} Raviz. malappuram, India.
+            © {new Date().getFullYear()} Ramiz. malappuram, India.
           </span>
         </div>
 
