@@ -284,7 +284,7 @@ export default function Gallery() {
               </h2>
             </div>
             <p className="gallery-header-note">
-              A look inside the details — fabric, form, and finish that define the Vanverse standard.
+              A look inside the details — fabric, form, and finish that define the Raviz standard.
             </p>
           </div>
 

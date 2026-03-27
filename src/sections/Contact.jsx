@@ -1,3 +1,4 @@
+
 import { useEffect, useRef, useState } from "react";
 
 function useInView(threshold = 0.15) {
@@ -17,7 +18,7 @@ function useInView(threshold = 0.15) {
 const contactDetails = [
   {
     label: "Location",
-    value: "Bangalore, Karnataka",
+    value: "Manjeri",
     sub: "India — 560 001",
     icon: "◎",
   },
@@ -29,7 +30,7 @@ const contactDetails = [
   },
   {
     label: "Email",
-    value: "contact@vanverse.com",
+    value: "contact@Raviz.com",
     sub: "We reply within 24 hours",
     icon: "◎",
   },
@@ -516,7 +517,7 @@ export default function Contact() {
 
         {/* Footer band */}
         <div className="contact-footer-band">
-          <span className="contact-footer-brand">VANVERSE</span>
+          <span className="contact-footer-brand">Raviz</span>
           <nav className="contact-footer-links">
             {["Collections", "About", "Gallery", "Contact"].map(link => (
               <a key={link} href={`#${link.toLowerCase()}`} className="contact-footer-link">
@@ -525,7 +526,7 @@ export default function Contact() {
             ))}
           </nav>
           <span className="contact-footer-copy">
-            © {new Date().getFullYear()} Vanverse. Bangalore, India.
+            © {new Date().getFullYear()} Raviz. Bangalore, India.
           </span>
         </div>
 

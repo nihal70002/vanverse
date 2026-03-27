@@ -6,7 +6,7 @@ export default function Navbar() {
 
         {/* LOGO */}
         <h1 className="text-2xl tracking-widest font-semibold">
-          VANVERSE
+          RAVIZ
         </h1>
 
         {/* MENU */}
