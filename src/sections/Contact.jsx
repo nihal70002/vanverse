@@ -386,7 +386,7 @@ export default function Contact() {
               </h2>
             </div>
             <p className="contact-header-note">
-              Based in Bangalore. Serving fashion brands across India and internationally. Bulk manufacturing enquiries welcome.
+              Based in malappuram. Serving fashion brands across India and internationally. Bulk manufacturing enquiries welcome.
             </p>
           </div>
 
@@ -526,7 +526,7 @@ export default function Contact() {
             ))}
           </nav>
           <span className="contact-footer-copy">
-            © {new Date().getFullYear()} Raviz. Bangalore, India.
+            © {new Date().getFullYear()} Raviz. malappuram, India.
           </span>
         </div>
 
