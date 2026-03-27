@@ -28,7 +28,7 @@ export default function Hero() {
       <div className="relative h-full flex flex-col justify-center items-center text-white text-center px-6">
 
         <h1 className="text-6xl md:text-8xl tracking-widest font-semibold">
-         Ramiz 
+         RAMIZ
         </h1>
 
         <p className="mt-6 text-lg md:text-2xl tracking-wide">
