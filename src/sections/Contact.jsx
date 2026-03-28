@@ -18,7 +18,7 @@ function useInView(threshold = 0.15) {
 const contactDetails = [
   {
     label: "Location",
-    value: "Manjeri",
+    value: "Banglore, India",
     sub: "India — 560 001",
     icon: "◎",
   },
@@ -30,7 +30,7 @@ const contactDetails = [
   },
   {
     label: "Email",
-    value: "contact@Ramiz.com",
+    value: "contact@VANVERSE.com",
     sub: "We reply within 24 hours",
     icon: "◎",
   },
@@ -386,7 +386,7 @@ export default function Contact() {
               </h2>
             </div>
             <p className="contact-header-note">
-              Based in malappuram. Serving fashion brands across India and internationally. Bulk manufacturing enquiries welcome.
+              Based in Banglore. Serving fashion brands across India and internationally. Bulk manufacturing enquiries welcome.
             </p>
           </div>
 
@@ -517,7 +517,7 @@ export default function Contact() {
 
         {/* Footer band */}
         <div className="contact-footer-band">
-          <span className="contact-footer-brand">Ramiz</span>
+          <span className="contact-footer-brand">Vanverse</span>
           <nav className="contact-footer-links">
             {["Collections", "About", "Gallery", "Contact"].map(link => (
               <a key={link} href={`#${link.toLowerCase()}`} className="contact-footer-link">
@@ -526,7 +526,7 @@ export default function Contact() {
             ))}
           </nav>
           <span className="contact-footer-copy">
-            © {new Date().getFullYear()} Ramiz. malappuram, India.
+            © {new Date().getFullYear()} Vanverse. Banglore, India.
           </span>
         </div>
 

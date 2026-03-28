@@ -305,7 +305,7 @@ export default function Navbar() {
 
           {/* Logo */}
           <a href="#" className="nav-logo">
-            <span className="nav-logo-main">RAMIZ</span>
+            <span className="nav-logo-main">VANVERSE</span>
             <span className="nav-logo-sub">Modern Menswear</span>
           </a>
 

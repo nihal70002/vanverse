@@ -325,7 +325,7 @@ export default function About() {
 
             {/* Image column */}
             <div className="about-images" ref={imgRef}>
-              <span className="about-vert-text">Ramiz — Est. 2024</span>
+              <span className="about-vert-text">Vanverse — Est. 2024</span>
 
               <div className={`about-img about-img-a ${imgVisible ? "visible" : ""}`}>
                 <img src={products[0].img} alt={products[0].name} />
@@ -353,7 +353,7 @@ export default function About() {
               <div className={`about-rule ${textVisible ? "visible" : ""}`} />
 
               <p className={`about-body ${textVisible ? "visible" : ""}`}>
-                Ramiz is a modern menswear manufacturing brand specialising in premium shirts, T-shirts, and jeans. We exist at the intersection of comfort, craft, and contemporary form — built for fashion markets that demand both reliability and refinement.
+                Vanverse is a modern menswear manufacturing brand specialising in premium shirts, T-shirts, and jeans. We exist at the intersection of comfort, craft, and contemporary form — built for fashion markets that demand both reliability and refinement.
                 <br /><br />
                 From first sketch to final stitch, every piece we produce is held to a standard that respects the wearer's time, taste, and investment.
               </p>
@@ -385,7 +385,7 @@ export default function About() {
             {Array(2).fill([
               "Premium Shirts", "·", "Denim & Jeans", "·",
               "Modern Menswear", "·", "T-Shirts", "·",
-              "Crafted in Quality", "·", "Ramiz", "·",
+              "Crafted in Quality", "·", "Vanverse", "·",
             ]).flat().map((word, i) => (
               <span
                 key={i}

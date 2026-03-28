@@ -1,3 +1,4 @@
+
 import { useEffect, useRef, useState } from "react";
 import img1 from "../assets/images/gallery1.jpg";
 import img2 from "../assets/images/gallery2.jpg";
@@ -285,7 +286,7 @@ export default function Gallery() {
             </div>
             
             <p className="gallery-header-note">
-              A look inside the details — fabric, form, and finish that define the Ramiz standard.
+              A look inside the details — fabric, form, and finish that define the VANVERSE standard.
             </p>
           </div>
 

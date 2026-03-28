@@ -333,7 +333,7 @@ export default function WhyChooseUs() {
                 <span className="wcu-eyebrow-text">Our Standard</span>
               </div>
               <h2 className="wcu-heading">
-                Why <em>Raviz</em><br />stands apart
+                Why <em>Vanverse</em><br />stands apart
               </h2>
             </div>
 
